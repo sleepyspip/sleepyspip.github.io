@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Sleepy Spip"
-  avatar : "/assets/images/icon_twitter.jpg"
+  avatar : "/assets/images/icon_twitter.png"
   bio    : "A squirrel who likes his sleep."
   links:
     - label: "Website"

@@ -98,6 +98,10 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      toc: true
+      toc_sticky: true
+      toc_icon: list
   # _pages
   - scope:
       path: "_pages"

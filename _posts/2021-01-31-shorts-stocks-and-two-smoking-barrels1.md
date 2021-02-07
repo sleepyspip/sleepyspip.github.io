@@ -4,7 +4,8 @@ categories:
   - finance
 tags:
   - stocks
-  - glossary
+  - introduction
+  
 ---
 
 > *"Bearish GameStop options contracts fly off the shelf after stock surge"* 
@@ -149,23 +150,23 @@ It is interesting to note that while in our previous case of *stock options* sto
 Finally it is time to go back to our introductory quote and see if we can make sense of it now:
 >"Bearish GameStop options contracts fly off the shelf after stock surge"
 
-The headline is about bearish options contract, meaning options for people expecting the value of the GameStop stock to go down. In other words, *put options*: they hope to sell at the agreed upon price because they expect it to go down, and therefore sell the stocks for more than their worth, thus making a profit. They appear to be selling very quickly (*fly off the shelf*) after the *stock surge*, in other words the spike of the price. It means that a lot of people expect this surge to be an unsustainable high for the price, expecting it to go down soon. You can try to read the article [^here](https://www.reuters.com/article/us-gamestop-stocks-options-idUSKBN29X0LE "Reuters - Bearish GameStop options contracts fly off the shelf after stock surge") and see if you can understand it now!
+The headline is about bearish options contract, meaning options for people expecting the value of the GameStop stock to go down. In other words, *put options*: they hope to sell at the agreed upon price because they expect it to go down, and therefore sell the stocks for more than their worth, thus making a profit. They appear to be selling very quickly (*fly off the shelf*) after the *stock surge*, in other words the spike of the price. It means that a lot of people expect this surge to be an unsustainable high for the price, expecting it to go down soon. You can try to read the article [here](https://www.reuters.com/article/us-gamestop-stocks-options-idUSKBN29X0LE "Reuters - Bearish GameStop options contracts fly off the shelf after stock surge") and see if you can understand it now!
 
-
-[^1]: <https://www.investopedia.com/terms/b/bear.asp> "Investopedia - Bear"
-[^2]: <https://www.investopedia.com/terms/s/stock.asp> "Investopedia - Stock"
-[^3]: <https://en.wikipedia.org/wiki/Stock> "Wikipedia - Stock"
-[^4]: <https://en.wikipedia.org/wiki/Stock_certificate> "Wikipedia - Stock Certificate"
-[^5]: <https://en.wikipedia.org/wiki/Corporation> "Wikipedia - Corporation"
-[^6]: <https://www.etf.com/docs/IfYouCan.pdf> "If You Can - How Millennial Can Get Rich Slowly"
-[^7]: <https://www.investopedia.com/terms/v/votingright.asp> "Investopedia - Stockholder Voting Right"
-[^8]: <https://www.investopedia.com/terms/s/security.asp> "Investopedia - Security"
-[^9]: <https://en.wikipedia.org/wiki/Fungibility> "Wikipedia - Fungibility"
-[^10]: <https://www.investopedia.com/terms/f/financialinstrument.asp> "Investopedia - Financial Instrument"
-[^11]: <https://en.wikipedia.org/wiki/Financial_instrument> "Wikipedia - Financial Instrument"
-[^12]: <https://www.forbes.com/advisor/investing/what-are-stocks/> "Forbes - What are stocks?"
-[^13]: <https://www.nyse.com/publicdocs/nyse/listing/NYSE_Initial_Listing_Standards_Summary.pdf> "NYSE - Listing Standard Summary"
-[^14]: <https://www.investopedia.com/terms/o/option.asp> "Investopedia - Option"
-[^15]: <https://www.investopedia.com/terms/d/derivative.asp> "Investopedia - Derivative"
-[^16]: <https://en.wikipedia.org/wiki/Derivative_(finance)> "Wikipedia - Derivative"
-[^17]: <https://en.wikipedia.org/wiki/Option_(finance> "Wikipedia - Option"
+## *References*
+[^1]: <https://www.investopedia.com/terms/b/bear.asp> Investopedia - Bear
+[^2]: <https://www.investopedia.com/terms/s/stock.asp> Investopedia - Stock
+[^3]: <https://en.wikipedia.org/wiki/Stock> Wikipedia - Stock
+[^4]: <https://en.wikipedia.org/wiki/Stock_certificate> Wikipedia - Stock Certificate
+[^5]: <https://en.wikipedia.org/wiki/Corporation> Wikipedia - Corporation
+[^6]: <https://www.etf.com/docs/IfYouCan.pdf> If You Can - How Millennial Can Get Rich Slowly
+[^7]: <https://www.investopedia.com/terms/v/votingright.asp> Investopedia - Stockholder Voting Right
+[^8]: <https://www.investopedia.com/terms/s/security.asp> Investopedia - Security
+[^9]: <https://en.wikipedia.org/wiki/Fungibility> Wikipedia - Fungibility
+[^10]: <https://www.investopedia.com/terms/f/financialinstrument.asp> Investopedia - Financial Instrument
+[^11]: <https://en.wikipedia.org/wiki/Financial_instrument> Wikipedia - Financial Instrument
+[^12]: <https://www.forbes.com/advisor/investing/what-are-stocks/> Forbes - What are stocks?
+[^13]: <https://www.nyse.com/publicdocs/nyse/listing/NYSE_Initial_Listing_Standards_Summary.pdf> NYSE - Listing Standard Summary
+[^14]: <https://www.investopedia.com/terms/o/option.asp> Investopedia - Option
+[^15]: <https://www.investopedia.com/terms/d/derivative.asp> Investopedia - Derivative
+[^16]: <https://en.wikipedia.org/wiki/Derivative_(finance)> Wikipedia - Derivative
+[^17]: <https://en.wikipedia.org/wiki/Option_(finance)> Wikipedia - Option
